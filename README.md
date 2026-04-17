@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  ML
 - 📫 How to reach me :allahyallydie@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i like logic games,learning new languages and reading books
 
 <!---
 creme-des-cremes/creme-des-cremes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
