@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @creme-des-cremes
-- 👀 I’m interested in web development,machine learning engineer
-- 🌱 I’m currently learning  AI engineering
+- 👀 I’m interested in machine learning engineer
+- 🌱 I’m currently learning  ML
 - 📫 How to reach me :allahyallydie@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: ...
